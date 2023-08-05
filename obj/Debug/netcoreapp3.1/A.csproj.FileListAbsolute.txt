@@ -1,0 +1,14 @@
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.exe
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.deps.json
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.json
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.dev.json
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.dll
+C:\Users\Hadi\Desktop\A\bin\Debug\netcoreapp3.1\A.pdb
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.csproj.AssemblyReference.cache
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.AssemblyInfoInputs.cache
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.AssemblyInfo.cs
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.csproj.CoreCompileInputs.cache
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.dll
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.pdb
+C:\Users\Hadi\Desktop\A\obj\Debug\netcoreapp3.1\A.genruntimeconfig.cache
